@@ -99,3 +99,6 @@ maintenance_mode_state.txt
 
 # map files
 #*.map
+
+
+django_csv_permissions.egg-info/
